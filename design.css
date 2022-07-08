@@ -1,0 +1,94 @@
+*{
+    font-family: 'Poppins', sans-serif;
+}
+.btn-1{
+    background-color: #FFF;
+    -webkit-border-radius: 50px;
+    -moz-border-radius:50px;
+   
+}
+.btn-1:hover{
+    background-color: rgb(167, 130, 202);
+    -webkit-border-radius: 25px;
+    -moz-border-radius: 25px;
+ 
+}
+.btn-2{
+background-color: #FFF;
+-webkit-border-radius: 50px;
+-moz-border-radius:50px;
+
+
+}
+.btn-2:hover{
+background-color: rgb(167, 130, 202);
+-webkit-border-radius: 50px;
+-moz-border-radius:50px;
+
+   
+}
+.nav-link:hover{
+background-color: rgba(167, 130, 202, 0.73);
+}
+
+.card-header{
+    background-color: #6C3483;
+}
+.card{
+    background-color: #E8DAEF;
+}
+.table{
+    background-color: #FFF;
+}
+thead{
+    color: #FFF;
+    background-color: #6C3483
+}
+.btn-3:hover{
+background-color: rgb(167, 130, 202);
+    -webkit-border-radius: 25px;
+    -moz-border-radius: 25px;
+}
+
+.btn-3{
+background-color: #FFF;
+    -webkit-border-radius: 50px;
+    -moz-border-radius:50px;
+}
+.btn-4{
+background-color: #FFF;
+    -webkit-border-radius: 50px;
+    -moz-border-radius:50px;
+}
+
+.btn-4:hover{
+background-color: rgb(167, 130, 202);
+    -webkit-border-radius: 25px;
+    -moz-border-radius: 25px;
+}
+
+.btn-5{
+background-color: #FFF;
+    -webkit-border-radius: 50px;
+    -moz-border-radius:50px;
+}
+
+.btn-5:hover{
+background-color: rgb(167, 130, 202);
+    -webkit-border-radius: 25px;
+    -moz-border-radius: 25px;
+}
+
+.navbar{
+    background-color: rgb(167, 130, 202);
+}
+
+.navbar-brand{
+    color:white;
+}
+
+.btn-link{
+    color: white;
+}
+
+

@@ -1,0 +1,9 @@
+body {
+    background-image: url('bglog.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100%;
+  }
+div {
+    opacity: 95%;
+  }
